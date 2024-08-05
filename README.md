@@ -1,3 +1,7 @@
+# API de Transações
+
+API simples de transações bancarias, que possui testes e2e, feita com TS, Fastify, Knex, Zod e Vitest.
+
 # Requisitos Funcionais
 
 - [x] O usuário deve poder criar uma nova transação;
